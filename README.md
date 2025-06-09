@@ -1,4 +1,4 @@
-# PC-Tester 1.2.0
+# Hex-PC-Tester
 A java program to test your PC performance.
 
 ## How To use this program
